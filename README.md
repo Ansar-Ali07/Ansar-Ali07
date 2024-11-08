@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ansar-Ali07
+- 👋 Hi, I’m Ansar Ali
 - 👀 I’m interested in learning the basics of data science.
 - 🌱 I’m currently learning seq analysis for plants.
 - 💞️ I’m looking to collaborate on plant leaf epidermis development.
-- 📫 How to reach me "ali.phytodoctor@gmail.com
+- 📫 How to reach me "ali.phytodoctor@gmail.com"
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: Extremely social person
 
